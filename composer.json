@@ -1,0 +1,11 @@
+{
+    "name": "werkzeugh/angular-statemanager",
+    "description": "Anggularjs Library for maintaining state in lists",
+    "authors": [
+        {
+            "name": "Manfred Wuits",
+            "email": "mw@werkzeugh.at"
+        }
+    ],
+    "minimum-stability": "stable"
+}
